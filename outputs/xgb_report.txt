@@ -1,0 +1,11 @@
+=== XGBoost Model ===
+              precision    recall  f1-score   support
+
+           0       0.95      0.99      0.97       163
+           1       0.97      0.78      0.87        37
+
+    accuracy                           0.95       200
+   macro avg       0.96      0.89      0.92       200
+weighted avg       0.96      0.95      0.95       200
+
+F1 Score: 0.8656716417910447

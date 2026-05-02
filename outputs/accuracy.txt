@@ -1,0 +1,2 @@
+Logistic Regression F1: 0.9863013698630136
+Random Forest F1: 0.7666666666666667
